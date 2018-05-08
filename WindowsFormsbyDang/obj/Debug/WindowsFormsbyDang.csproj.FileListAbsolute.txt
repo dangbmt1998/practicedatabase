@@ -1,0 +1,15 @@
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\WindowsFormsbyDang.exe.config
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\WindowsFormsbyDang.exe
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\WindowsFormsbyDang.pdb
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.csprojResolveAssemblyReference.cache
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.Properties.Resources.resources
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.csproj.GenerateResource.Cache
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.exe
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.pdb
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\EntityFramework.dll
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\EntityFramework.xml
+D:\WindowsFormsbyDang\WindowsFormsbyDang\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.classmanagement.List.resources
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.classmanagement.addClassStudent.resources
+D:\WindowsFormsbyDang\WindowsFormsbyDang\obj\Debug\WindowsFormsbyDang.classmanagement.Edit.resources
